@@ -1,0 +1,6 @@
+C:\Users\antun\OneDrive\Escritorio\Programacion\Coderhouse\C#\Sistema de ventas MA\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\antun\OneDrive\Escritorio\Programacion\Coderhouse\C#\Sistema de ventas MA\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\antun\OneDrive\Escritorio\Programacion\Coderhouse\C#\Sistema de ventas MA\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\antun\OneDrive\Escritorio\Programacion\Coderhouse\C#\Sistema de ventas MA\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\antun\OneDrive\Escritorio\Programacion\Coderhouse\C#\Sistema de ventas MA\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\antun\OneDrive\Escritorio\Programacion\Coderhouse\C#\Sistema de ventas MA\CapaEntidad\obj\Debug\CapaEntidad.pdb
